@@ -44,7 +44,7 @@ The image below will be display with the ip address
 
 Installing MYSQL
 
-USe the the comman line to install the server
+Use the the command line to install the server
 
                sudo apt install mysql-server
 We can the server using the following command line
@@ -55,6 +55,7 @@ You can sudo in the the server using the command
                       sudo mysql
 This will be display which shows that it is successful
 <img width="559" alt="terminalsc" src="https://user-images.githubusercontent.com/61475969/204668676-ff5b6f6d-8956-4b6c-a32b-35054320b5c8.png">
+
 We can exit the server using the following command
 
                              exit
