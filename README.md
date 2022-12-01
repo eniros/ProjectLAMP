@@ -134,7 +134,7 @@ Add the following text, which is valid PHP code, inside the file:
                                         phpinfo();
 Save and close the file, refresh the page and you will see a page similar to this:
 ![projectlampphp](https://user-images.githubusercontent.com/61475969/204669510-d3445b80-5edc-417d-81e4-250bc96f4b48.png)
-Its best to remove the file create, you can do that using the following command
+To remove the file created, you can run following command
 
                              sudo rm /var/www/projectlamp/index.php
 
