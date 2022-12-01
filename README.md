@@ -133,7 +133,8 @@ Add the following text, which is valid PHP code, inside the file:
                                          <?php
                                         phpinfo();
 Save and close the file, refresh the page and you will see a page similar to this:
-![projectlampphp](https://user-images.githubusercontent.com/61475969/204669510-d3445b80-5edc-417d-81e4-250bc96f4b48.png)
+<img width="986" alt="Screenshot 2022-12-01 at 18 37 14" src="https://user-images.githubusercontent.com/61475969/205133377-5740deab-1958-49c1-a944-09512e0e4f1c.png">
+
 To remove the file created, you can run following command
 
                              sudo rm /var/www/projectlamp/index.php
