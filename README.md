@@ -12,7 +12,7 @@ Create a EC2 Instance
 
 Select region (the cl and launch a new EC2 instance of t2.micro family with Ubuntu Server 20.04 LTS (HVM)
 
-Create a pair Key as the EC2 is created
+Create a Key Pair as the EC2 is created
 
 Move into the folder where the pair key is downloaded and run the following command to connect to the instance
         
@@ -22,7 +22,7 @@ Move into the folder where the pair key is downloaded and run the following comm
         
         Install APACHE and Update the Firewall
 
-Firat is to update a list of packages in package manager, the following command is used
+First is to update a list of packages in package manager, the following command is used
 
                sudo apt update
 Then we run apache2 package installation using the following command
